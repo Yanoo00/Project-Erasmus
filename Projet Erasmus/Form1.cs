@@ -16,5 +16,14 @@ namespace Projet_Erasmus
         {
             InitializeComponent();
         }
+
+        private void cmdLoadFile_Click(object sender, EventArgs e)
+        {
+            ReadFile test = new ReadFile();
+
+            test.ReadFiles();
+
+
+        }
     }
 }

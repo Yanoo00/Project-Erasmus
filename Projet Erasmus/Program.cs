@@ -20,8 +20,6 @@ namespace Projet_Erasmus
         }
 
 
-        //Lecture CSV
-
-        //
+        
     }
 }

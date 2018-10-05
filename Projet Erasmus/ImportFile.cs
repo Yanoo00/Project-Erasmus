@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Projet_Erasmus
 {
-    class élèves
+    class ImportFile
     {
-
+        
     }
 }
